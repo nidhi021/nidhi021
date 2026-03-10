@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nidhi021
-- 👀 I’m interested in Java, React
-- 🌱 I’m currently learning Java (Advance)
+- 👀 I’m interested in Java, React, Salesforce, LWC
+- 🌱 I’m currently learning Salesforce (Advance)
 - 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me - nidhikumarijha1995@gmail.com
 
